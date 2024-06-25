@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python desencriptador.py <texto_cifrado> <clave_opcional>
 ```
 
-* **`texto_cifrado`**: Texto cifrado codificado en Base64.
+* **`texto_cifrado`**: Texto cifrado codificado.
 * **`clave_opcional`**: Clave de descifrado (opcional, si se conoce).
 
 ### Ejemplo:**
