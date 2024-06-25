@@ -35,7 +35,7 @@ python desencriptador.py <texto_cifrado> <clave_opcional>
 * **`texto_cifrado`**: Texto cifrado codificado.
 * **`clave_opcional`**: Clave de descifrado (opcional, si se conoce).
 
-### Ejemplo:**
+### Ejemplo:
 
 ```bash
 python desencriptador.py 1f61dcbf4aa6fae5dfdd4c6d195ca6ab EF
